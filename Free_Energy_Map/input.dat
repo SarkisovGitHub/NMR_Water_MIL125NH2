@@ -1,0 +1,20 @@
+FF.atoms
+MIL125TiNH2.xyz
+H2O.mol
+0.1, 100
+18.673 18.673 18.138
+90.0 90.0 90.0
+9.0, 0.1, 1.0
+298.15
+21908391 
+
+!1.  file containing the atom types + diameters (sigmas) of the atoms. 
+!2.  file containing the coordinates of the porous solid.
+!3.  file containing the probe data.
+!4.  lattice grid size in Angstroms, number of orientations probed for each cubelet.
+!5.  length of the unit cell.
+!6.  unit cell angles (yz, xz, xy).
+!7.  cut off distance (A) for LJ and electrostatic potentials,
+!    alpha and shield parameters for Fennell and Gezelter electrostatic potential. 
+!8.  temperature (Kelvins).
+!9.  random number seed.

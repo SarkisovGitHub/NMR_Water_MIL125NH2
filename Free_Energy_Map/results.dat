@@ -1,0 +1,220 @@
+ 
+ Calculating adsorption Henry's constant with the following input parameters
+ -------------------------------------------------------------------------
+ File with the framework coordinates: MIL125TiNH2.xyz
+ File with molecular probe: H2O.mol
+ Name of the molecular probe H2O
+Percentage completed:    0.53763%
+Percentage completed:    1.07527%
+Percentage completed:    1.61290%
+Percentage completed:    2.15054%
+Percentage completed:    2.68817%
+Percentage completed:    3.22581%
+Percentage completed:    3.76344%
+Percentage completed:    4.30108%
+Percentage completed:    4.83871%
+Percentage completed:    5.37634%
+Percentage completed:    5.91398%
+Percentage completed:    6.45161%
+Percentage completed:    6.98925%
+Percentage completed:    7.52688%
+Percentage completed:    8.06452%
+Percentage completed:    8.60215%
+Percentage completed:    9.13978%
+Percentage completed:    9.67742%
+Percentage completed:   10.21505%
+Percentage completed:   10.75269%
+Percentage completed:   11.29032%
+Percentage completed:   11.82796%
+Percentage completed:   12.36559%
+Percentage completed:   12.90323%
+Percentage completed:   13.44086%
+Percentage completed:   13.97849%
+Percentage completed:   14.51613%
+Percentage completed:   15.05376%
+Percentage completed:   15.59140%
+Percentage completed:   16.12903%
+Percentage completed:   16.66667%
+Percentage completed:   17.20430%
+Percentage completed:   17.74194%
+Percentage completed:   18.27957%
+Percentage completed:   18.81720%
+Percentage completed:   19.35484%
+Percentage completed:   19.89247%
+Percentage completed:   20.43011%
+Percentage completed:   20.96774%
+Percentage completed:   21.50538%
+Percentage completed:   22.04301%
+Percentage completed:   22.58064%
+Percentage completed:   23.11828%
+Percentage completed:   23.65591%
+Percentage completed:   24.19355%
+Percentage completed:   24.73118%
+Percentage completed:   25.26882%
+Percentage completed:   25.80645%
+Percentage completed:   26.34409%
+Percentage completed:   26.88172%
+Percentage completed:   27.41936%
+Percentage completed:   27.95699%
+Percentage completed:   28.49462%
+Percentage completed:   29.03226%
+Percentage completed:   29.56989%
+Percentage completed:   30.10753%
+Percentage completed:   30.64516%
+Percentage completed:   31.18280%
+Percentage completed:   31.72043%
+Percentage completed:   32.25806%
+Percentage completed:   32.79570%
+Percentage completed:   33.33333%
+Percentage completed:   33.87097%
+Percentage completed:   34.40860%
+Percentage completed:   34.94624%
+Percentage completed:   35.48387%
+Percentage completed:   36.02151%
+Percentage completed:   36.55914%
+Percentage completed:   37.09678%
+Percentage completed:   37.63441%
+Percentage completed:   38.17204%
+Percentage completed:   38.70968%
+Percentage completed:   39.24731%
+Percentage completed:   39.78495%
+Percentage completed:   40.32258%
+Percentage completed:   40.86021%
+Percentage completed:   41.39785%
+Percentage completed:   41.93548%
+Percentage completed:   42.47312%
+Percentage completed:   43.01075%
+Percentage completed:   43.54839%
+Percentage completed:   44.08602%
+Percentage completed:   44.62366%
+Percentage completed:   45.16129%
+Percentage completed:   45.69893%
+Percentage completed:   46.23656%
+Percentage completed:   46.77419%
+Percentage completed:   47.31183%
+Percentage completed:   47.84946%
+Percentage completed:   48.38710%
+Percentage completed:   48.92473%
+Percentage completed:   49.46236%
+Percentage completed:   50.00000%
+Percentage completed:   50.53764%
+Percentage completed:   51.07527%
+Percentage completed:   51.61290%
+Percentage completed:   52.15054%
+Percentage completed:   52.68817%
+Percentage completed:   53.22581%
+Percentage completed:   53.76344%
+Percentage completed:   54.30107%
+Percentage completed:   54.83871%
+Percentage completed:   55.37634%
+Percentage completed:   55.91398%
+Percentage completed:   56.45161%
+Percentage completed:   56.98925%
+Percentage completed:   57.52688%
+Percentage completed:   58.06452%
+Percentage completed:   58.60215%
+Percentage completed:   59.13979%
+Percentage completed:   59.67742%
+Percentage completed:   60.21505%
+Percentage completed:   60.75269%
+Percentage completed:   61.29032%
+Percentage completed:   61.82796%
+Percentage completed:   62.36559%
+Percentage completed:   62.90322%
+Percentage completed:   63.44086%
+Percentage completed:   63.97849%
+Percentage completed:   64.51613%
+Percentage completed:   65.05376%
+Percentage completed:   65.59140%
+Percentage completed:   66.12904%
+Percentage completed:   66.66666%
+Percentage completed:   67.20430%
+Percentage completed:   67.74194%
+Percentage completed:   68.27957%
+Percentage completed:   68.81721%
+Percentage completed:   69.35484%
+Percentage completed:   69.89247%
+Percentage completed:   70.43011%
+Percentage completed:   70.96774%
+Percentage completed:   71.50538%
+Percentage completed:   72.04301%
+Percentage completed:   72.58064%
+Percentage completed:   73.11828%
+Percentage completed:   73.65591%
+Percentage completed:   74.19355%
+Percentage completed:   74.73119%
+Percentage completed:   75.26881%
+Percentage completed:   75.80645%
+Percentage completed:   76.34409%
+Percentage completed:   76.88172%
+Percentage completed:   77.41936%
+Percentage completed:   77.95699%
+Percentage completed:   78.49462%
+Percentage completed:   79.03226%
+Percentage completed:   79.56989%
+Percentage completed:   80.10753%
+Percentage completed:   80.64516%
+Percentage completed:   81.18279%
+Percentage completed:   81.72043%
+Percentage completed:   82.25806%
+Percentage completed:   82.79570%
+Percentage completed:   83.33334%
+Percentage completed:   83.87096%
+Percentage completed:   84.40860%
+Percentage completed:   84.94624%
+Percentage completed:   85.48387%
+Percentage completed:   86.02151%
+Percentage completed:   86.55914%
+Percentage completed:   87.09677%
+Percentage completed:   87.63441%
+Percentage completed:   88.17204%
+Percentage completed:   88.70967%
+Percentage completed:   89.24731%
+Percentage completed:   89.78495%
+Percentage completed:   90.32258%
+Percentage completed:   90.86021%
+Percentage completed:   91.39785%
+Percentage completed:   91.93549%
+Percentage completed:   92.47312%
+Percentage completed:   93.01075%
+Percentage completed:   93.54839%
+Percentage completed:   94.08603%
+Percentage completed:   94.62366%
+Percentage completed:   95.16129%
+Percentage completed:   95.69892%
+Percentage completed:   96.23656%
+Percentage completed:   96.77419%
+Percentage completed:   97.31182%
+Percentage completed:   97.84946%
+Percentage completed:   98.38710%
+Percentage completed:   98.92473%
+Percentage completed:   99.46236%
+Percentage completed:  100.00000%
+ ------------------------------------------------------
+  Reporting results 
+  Kh  [mol/kg/bar] | Lennard-Jones + Coulombic |  Lennard-Jones only 
+                        149.475562238670       0.120974599384402     
+ average LJ and Coulombic energies, kJ/mol  -2.53880564292030     
+  -34.3304191120351     
+ Cluster connectivity analysis
+  Amin [kJ/mol]   -37.0666420112445     
+ Starting search for the energy barrier
+ Current barrier    236.443025514020     
+ Current barrier   -6.40014761035916     
+ Current barrier   -12.2262036643493     
+ Current barrier   -16.6313958066688     
+ Current barrier   -16.9995419365350     
+ Current barrier   -17.1889482885034     
+ Current barrier   -17.2124418200496     
+ Current barrier   -17.2189286580490     
+ Current barrier   -17.2203930405497     
+ Current barrier   -17.2210542831139     
+ Current barrier   -17.2212548544974     
+ Current barrier   -17.2212903072753     
+ Current barrier   -17.2213865276334     
+ Current barrier   -17.2213870127528     
+ System is percolated in            1  dimensions
+ See lattix.xyz file for spanning cluster
+  A* [kJ/mol]   -17.2213876331183       -17.2213870127528     
+  Node location of A*           81         115         143
+  Free energy barrier A*-Amin [kJ/mol]    19.8452543781262     
