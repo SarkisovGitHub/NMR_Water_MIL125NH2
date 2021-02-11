@@ -1,0 +1,31 @@
+ MIL125TiNH2.xyz
+V_A^3     6324.375
+M _g/mol     3313.956
+RHO_g/cm^3        0.870
+PLD_A         3.77
+LCD_A        10.65
+ D            1
+ Total               
+S_AC_A^2       753.39
+S_AC_m^2/cm^3      1191.24
+S_AC_m^2/g      1369.06
+ Total               
+V_He_A^3     3849.071
+V_He_cm^3/g        0.699
+V_G_A^3     4128.535
+V_G cm^3/g:        0.750
+V_PO A^3:     3589.348
+V_PO cm^3/g:        0.652
+FV_PO:      0.56754
+ Network-accessible  
+S_AC_A^2       764.66
+S_AC_m^2/cm^3      1209.07
+S_AC_m^2/g      1389.55
+ Network-accessible  
+V_He_A^3     3849.071
+V_He_cm^3/g        0.699
+V_G_A^3     4128.275
+V_G cm^3/g:        0.750
+V_PO A^3:     3569.307
+V_PO cm^3/g:        0.649
+FV_PO:      0.56437
